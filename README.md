@@ -3,8 +3,8 @@
 🚀 **Android Developer | Software Engineer | Tokyo, Japan**  
 
 ## 🔹 About Me  
-- 👨‍💻 Android Developer with **2.6+ years** of experience  
-- 💼 Currently working at **Rakuten Symphony**, contributing to **Rakuten Link** (8M+ users, 90K+ reviews)  
+- 👨‍💻 Android Developer with **3+ years** of experience  
+- 💼 Currently working at **Rakuten Symphony**, contributing to **Rakuten Link** (10M+ users, 90K+ reviews)  
 - 📱 Passionate about **Jetpack Compose, Kotlin, Clean Architecture**   
 
 ## 📂 Projects  
