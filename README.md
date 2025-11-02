@@ -20,7 +20,7 @@
 - 🌍 **50+ languages, real-time language detection**, offline translation, **OCR**, text-to-speech, speech-to-text
 - 🏗️ **Tech:** Kotlin, Google ML Kit, OCR, Text-to-Speech  
 
-### 🔹 [Social Media App](https://github.com/AbhishekDh01/Instagram-clone-flutter)
+### 🔹 [Social Media App](https://github.com/AbhishekDh01/Social-media-flutter)
 - 📸 **Built with Flutter**, user profiles, follow system, post images, login page**  
 - 🏗️ **Tech:** Dart, Flutter, Firebase
 
